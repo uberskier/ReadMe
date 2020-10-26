@@ -65,11 +65,11 @@ Settings Setup
 
 2. Once open click on the settings button circled below. 
 
-   .. image:: Images/Settings.png
+   .. image:: Images/Settings.PNG
 
 3. Click on the Java tab of the settings.
 
-   .. image:: Images/Java.png
+   .. image:: Images/Java.PNG
 
 4. Click the check box highlighted below.
 
@@ -77,19 +77,19 @@ Settings Setup
 
 5. Click the Extra tab.
 
-   .. image:: Images/Extra.png
+   .. image:: Images/Extra.PNG
 
 6. Click the two highlighted checkboxes on the extra tab.
 
-   .. image:: Images/Extra_check.png
+   .. image:: Images/Extra_check.PNG
 
 7. Click on the Scan Settings tab.
 
-   .. image:: Images/Scan_Settings.png
+   .. image:: Images/Scan_Settings.PNG
 
 8. Click both of the highlighted checkboxes.
 
-   .. image:: Images/Scan_Checks.png
+   .. image:: Images/Scan_Checks.PNG
 
 9. Click OK and you're finished.
 
@@ -110,16 +110,16 @@ Now it is time to start changing values!
 
 4. Find your game in the list of Processes and click open.
 
-   .. image:: Images/Open.png
+   .. image:: Images/Open.PNG
 
 5. In the Value bar put in the current number you want to change.
 
-   .. image:: Images/First_scan.png
+   .. image:: Images/First_scan.PNG
        :width: 1200px
 
 6. Click First Scan.
 
-   .. image:: Images/Click_scan.png
+   .. image:: Images/Click_scan.PNG
 
 7. Now in your game change the value by at least one but more is better. 
 
@@ -143,7 +143,7 @@ Now it is time to start changing values!
 
 12. After the values are changed you're done and the value should have changed in-game.
 
-   .. image:: Images/Finished.png
+   .. image:: Images/Finished.PNG
        :width: 1200px
     
 FAQs

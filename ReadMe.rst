@@ -1,4 +1,3 @@
-
 Cheat Engine
 =========================================
 
@@ -10,8 +9,8 @@ Introduction
 Cheat Engine is a powerful software designed to let users view and edit memory.
 Its main use is as a tool for cheating in video games. 
 
-Requirments
-~~~~~~~~~~~
+Requirements
+~~~~~~~~~~~~~
 
 - Cheat Engine
 - A game to cheat
@@ -150,7 +149,7 @@ FAQs
 ~~~~
 
 * **What types of games can Cheat Engine edit?**
-   * Cheat Engine works with almost any game that does not server sided values.
+   * Cheat Engine works with almost any game that does not use server sided values.
    * The variables have to be stored on your personal device to be edited.
 
 * **Why did all the addresses disappear?**
@@ -174,3 +173,8 @@ Licensing
 ~~~~~~~~~
 
 Cheat Engine is an open-source software with a EULA. The full EULA is listed `here <https://virusbarubiru.wordpress.com/2013/02/11/cheat-engine-licence-opencandy-end-user-license-agreement/>`_.
+
+GitHub
+~~~~~~~
+
+GitHub with `ReadMe file <https://github.com/uberskier/ubeskier.github.io>`_.
